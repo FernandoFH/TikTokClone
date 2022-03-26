@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Bona Nova';
+  src: url('./assets/BonaNova-Regular.ttf')
+  format('ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Bona Nova';
+  src: url('./assets/BonaNova-Bold.ttf')
+  format('ttf');
+  font-weight: 600;
+}
+
+body {
+  margin: 0;
+  font-family: 'Bona Nova', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
