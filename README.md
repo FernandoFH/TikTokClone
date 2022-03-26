@@ -1,5 +1,5 @@
 # TikTok Clone
-### FullStack Clone de la aplicación mas popular del momento 
+### Clone de la aplicación mas popular del momento 
 
  🔥 [Infra TikTok](https://www.youtube.com/watch?v=8OcPdAbSKMU)
  
